@@ -1,0 +1,53 @@
+.favs{
+    background: #303030;
+}
+
+.search{
+    background: #212121;
+    padding-left: 20px;
+}  
+
+h2{
+    color: #ededed;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.ptn2{
+   
+    outline: none;
+    color: orange;
+    border-radius: 25px;
+}
+
+label{
+    color: #ededed;
+}
+.divider{
+    width:15px;
+    height:auto;
+ display:inline-block;
+}
+
+.wrapper{
+   text-align: center;
+}
+.btn2{
+    border: 0;
+	border-radius: 15px;
+   background-color: #424242;
+   padding:10px 20px;
+   color: #ffffff;
+   text-align: center;
+
+   display: inline-block;
+   font-size: 15px;
+}
+.btn2:hover {
+	background-color:#fd7014;
+}
+.btn2:active {
+	position:relative;
+	top:1px;
+}
+

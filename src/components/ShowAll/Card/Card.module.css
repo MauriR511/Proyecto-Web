@@ -1,0 +1,118 @@
+
+
+.Instasivar-card{
+	background: #424242;
+	color: #ededed;
+	border-radius: 13px;
+	height: auto;
+	width: 50%;
+	max-width: 500px;
+	margin: auto;
+}
+.Instasivar-card-header{
+	padding: 20px;
+	height: 40px;
+}
+
+.front{
+	padding-bottom: 1vh;
+}
+
+.heart1{
+	float: right;
+	cursor: pointer;
+}
+
+.title1{
+	font-size: 0.8em;
+	color: #ededed;
+	font-weight: bolder;
+}
+
+.imgclas{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 60%;
+	width: 60vh;
+	height: auto;
+	border-radius: 3px;
+}
+
+.Instasivar-card-content{
+	text-align: start;
+	padding-left: 0px;
+	padding-bottom: 10px;
+}
+
+.inpubx1{
+
+	width: 18em;
+	height: 1em;
+	background: #424242;
+	
+}
+
+
+.description{
+  padding-left: 20px;
+  overflow-x: auto;
+  overflow: hidden;
+}
+
+
+.cmmts{
+	display:inline-block;
+	color:#fff;
+	text-decoration:none;
+	padding:10px 20px;
+	line-height:normal;
+	font-size:15px;
+	font-weight:bold;
+}
+
+.heart{
+	cursor: pointer;
+}
+
+.btn4{
+    border: 0;
+	border-radius: 15px;
+   background-color: #424242;
+   padding:10px 10px;
+   color: #ffffff;
+   text-align: center;
+   display: inline-block;
+   font-size: 15px;
+}
+
+.btn4:hover {
+    background: #fd7014;
+}
+.divider{
+    width: 1em;
+    height:auto;
+    display:inline-block;
+}
+
+.divider2{
+    width:1vh;
+    height:auto;
+    display:inline-block;
+}
+
+
+ul{
+	list-style-type: none;
+}
+
+.hr1{
+	height: 3px;
+	background-color: #303030;
+	border: none;
+}
+
+.user1{
+	font-weight: bolder;
+	float: left;
+}

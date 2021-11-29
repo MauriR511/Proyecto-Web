@@ -1,0 +1,35 @@
+.baradd{
+    padding-top: 10px;
+    padding-left: 20px;
+    background-color: #212121;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.ptn1{
+    padding-bottom: 20px;
+    padding-right: 20px;
+    outline: none;
+    width: 13vh;
+    color: orange;
+}
+
+.btn1 {
+	border: 0;
+	border-radius: 15px;
+   background-color: #212121;
+   padding:10px 20px;
+   color: #ffffff;
+   text-align: center;
+   display: inline-block;
+   font-size: 15px;
+}
+.btn1:hover {
+	background-color:#fd7014;
+}
+.btn1:active {
+	position:relative;
+	top:1px;
+}
+
+     
