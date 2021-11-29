@@ -1,5 +1,5 @@
 import {
-  BrowserRouter,
+  HashRouter,
   Routes,
   Route,
   Navigate
@@ -16,7 +16,7 @@ import Redirect from "./pages/Redirect/Redirect";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Navigate replace to={"/login"} />} />
         <Route path="/login" element={<Login />} />
@@ -48,7 +48,7 @@ function App() {
             </main>
           </div>} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
